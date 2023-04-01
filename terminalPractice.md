@@ -1,4 +1,4 @@
-<!-- 
+
 The terminal seemed daunting at first (back in 101!). However, Over time I've learned that Linux is full of shortcuts to help make life easier. 
 Learning that the command cd may be run without a location but usually will be run with a single command line argument which is the location we would like to change into was interesting. 
 
@@ -9,4 +9,3 @@ Everything is actually a file! A text file is a file, a directory is a file, my 
 The manual pages are a set of pages that explain every command available on my system including what they do, the specifics of how I run them and what command line arguments they accept. Some of them were a little hard to get my head around at first. But they are fairly consistent in their structure so once I had gotten the hang of it, it's wasn't too bad. 
 
 It's critical that I create a directory structure that helps organise that data in a manageable way. EVERY. TIME.
--->
