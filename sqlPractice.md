@@ -30,3 +30,5 @@ Role-based security ensures data access is limited to specific users.
 
 Database normalization
 Relational databases employ a design technique known as normalization that reduces data redundancy and improves data integrity. 
+
+![img](img/sql_tutorial.jpg)
