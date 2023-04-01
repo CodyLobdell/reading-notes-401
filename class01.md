@@ -1,3 +1,4 @@
+
 >> Readings: Introduction to React and Components <<
 
 Below you will find some reading material, code samples, and some additional resources that support the topic for this class and the upcoming lecture.
